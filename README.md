@@ -1,2 +1,2 @@
-# ubridge
+# Cambridge U-Bridge Education
 eduction
